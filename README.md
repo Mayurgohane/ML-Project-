@@ -1,2 +1,2 @@
-# MLOPs-Production-Ready-Machine-Learning-Project
+# Machine-Learning-Project
 
